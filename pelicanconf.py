@@ -82,13 +82,13 @@ MENUITEMS = (
     ('文章','/'),
     ('标签', '/tags.html'),
     ('分类', '/categories.html'),
-    ('时间线','/archives.html')
+    ('归档','/archives.html')
 )
 
 # Blogroll
 LINKS = (
-    ('Django 1.8.2 中文文档', 'http://python.usyiyi.cn/translate/django_182/index.html'),
-    ('Python 3.5.2 中文文档','http://python.usyiyi.cn/translate/python_352/index.html')
+    ('Django 1.8.2 中文文档', 'https://yiyibooks.cn/xx/django_182/index.html'),
+    ('Python 3.5.2 中文文档','https://yiyibooks.cn/xx/python_352/index.html')
 )
 
 

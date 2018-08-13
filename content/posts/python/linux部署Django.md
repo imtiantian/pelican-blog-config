@@ -80,7 +80,7 @@ daemonize=/data/nginx/wsgilogs/djangoceshi.log
 * * * * *
 启动uwsgi：
 ~~~
-uwsgi --ini /data/wwwroot/djangoceshi/djangoceshi.ini
+uwsgi3 --ini /data/wwwroot/djangoceshi/djangoceshi.ini
 ~~~
 
 然后访问域名**djangoceshi.xzwphp.com**，发现不成功，查看记录文件**djangoceshi.log**发现，报了一个错误：
